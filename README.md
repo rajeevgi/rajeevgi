@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m a Electronics and Telecommunication Engineer...
+- 🌱 I’m currently learning Full Stack developer...
+- 👯 I’m looking to collaborate on software developing...
+- 
+
 <!--
 **rajeevgi/rajeevgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
