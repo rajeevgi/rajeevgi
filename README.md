@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm rajeev gupta</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Calculator using c**
+- 🔭 I’m an ** Engineer **.
 
 - 🌱 I’m currently learning **Full stack java development course**
+
+- 🧑‍💻 I'm an enthusiastic developer who is ready to dive into organisations.
 
 - 📫 How to reach me **rajivg216@gmail.com**
 
