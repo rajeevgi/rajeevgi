@@ -3,7 +3,7 @@
 
 - 🔭 I’m an ** Engineer **.
 
-- 🌱 I’m currently learning **Full stack java development course**
+- 🌱 I have completed **Full stack java development course**
 
 - 🧑‍💻 I'm an enthusiastic developer who is ready to dive into organisations.
 
