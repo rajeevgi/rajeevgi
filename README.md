@@ -5,7 +5,7 @@
 
 - 🌱 I have completed **Full stack java development course**
 
-- 🧑‍💻 Currently Working As a **Jr.Developer Apprenticeship** at **Cnergee Technologies Pvt Ltd**.
+- 🧑‍💻 Currently Working As a **Jr.Software Developer Intern** at **Cnergee Technologies Pvt Ltd**.
 
 - 📫 How to reach me **rajivg216@gmail.com**
 
