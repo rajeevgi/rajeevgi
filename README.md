@@ -33,11 +33,11 @@
   <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
   <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
-  <img src="https://img.icons8.com/fluency/48/angularjs.png" alt="AngularJS"/>
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="AngularJS"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular 18" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
   <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
   <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
@@ -45,6 +45,37 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/>
 </p>
 
+---
+### 🧠 Frontend Development
+<p align="left">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular 18" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+</p>
+
+### 🛠 Backend Development
+<p align="left">
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
+</p>
+
+### 💾 Database
+<p align="left">
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+### 🎨 Other Tools & Technologies
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/>
+  <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+</p>
 ---
 
 ### 📈 GitHub Stats:
@@ -63,7 +94,7 @@
 ---
 
 ### 📄 Resume & Portfolio
-- 📃 [Download My Resume](#) *((https://drive.google.com/file/d/15YW95WhRZTcIbWxruSwGhmqpR259EtOD/view?usp=drivesdk))*
+- 📃 [Download My Resume](https://drive.google.com/file/d/15YW95WhRZTcIbWxruSwGhmqpR259EtOD/view?usp=drivesdk)
 - 🌐 [Personal Portfolio Website](#) *(Working)*
 
 ---
@@ -72,6 +103,3 @@
 - 💡 I enjoy working on scalable web applications and problem-solving.
 - 💬 Ask me about anything Java, Spring Boot, Angular, or Web Tech related!
 - ⚡ Fun fact: I like to automate daily tasks and optimize systems I work on.
-
----
-
