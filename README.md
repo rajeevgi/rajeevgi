@@ -12,7 +12,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/rajeev-gupta" target="blank">
+  <a href="https://linkedin.com/in/rajeev-gupta-96a32b276" target="blank">
     <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
   <a href="https://fb.com/rajivgupta" target="blank">
@@ -44,39 +44,6 @@
   <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/>
 </p>
-
----
-### 🧠 Frontend Development
-<p align="left">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular 18" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
-  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
-  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
-  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-</p>
-
-### 🛠 Backend Development
-<p align="left">
-  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
-  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
-  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
-</p>
-
-### 💾 Database
-<p align="left">
-  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
-</p>
-
-### 🎨 Other Tools & Technologies
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/>
-  <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
-  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
-  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
-</p>
----
 
 ### 📈 GitHub Stats:
 <p align="left">
