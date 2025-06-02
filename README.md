@@ -1,22 +1,77 @@
-<h1 align="center">Hi 👋, I'm rajeev gupta</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h1 align="center">Hi 👋, I'm Rajeev Gupta</h1>
+<h3 align="center">🚀 A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-- 🔭 I’m an **Electronics And Telecommunication Engineer**.
+---
 
-- 🌱 I have completed **Full stack java development course**
+🔭 I’m an **Electronics and Telecommunication Engineer**  
+🌱 I’ve completed a **Full Stack Java Development** course  
+💼 Currently working as a **Jr. Software Developer Intern** at **Cnergee Technologies Pvt. Ltd.**  
+📫 Reach me at **rajivg216@gmail.com**
 
-- 🧑‍💻 Currently Working As a **Jr.Software Developer Intern** at **Cnergee Technologies Pvt Ltd**.
+---
 
-- 📫 How to reach me **rajivg216@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/rajeev gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajeev gupta" height="30" width="40" /></a>
-<a href="https://fb.com/rajiv gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rajiv gupta" height="30" width="40" /></a>
-<a href="https://instagram.com/guptaji_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guptaji_99" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/rajeev-gupta" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/rajivgupta" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook"/>
+  </a>
+  <a href="https://instagram.com/guptaji_99" target="blank">
+    <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://angularjs.org/" target="_blank" rel="noreferrer"><img width="48" height="48" src="https://img.icons8.com/fluency/48/angularjs.png" alt="angularjs"/></a> <a href="https://nodejs.org/" target="_blank" rel="noreferrer><img width="48" height="48" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="nodejs"/></a></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajeevgi&show_icons=true&locale=en" alt="rajeevgi" /></p>
+### 🛠️ Languages and Tools:
+<p align="left">
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/>
+  <img src="https://img.icons8.com/fluency/48/angularjs.png" alt="AngularJS"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" alt="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/color/48/kotlin.png" alt="Kotlin"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40"/>
+</p>
+
+---
+
+### 📈 GitHub Stats:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajeevgi&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajeevgi&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajeevgi&theme=radical&no-frame=true&no-bg=true" />
+</p>
+
+---
+
+### 📄 Resume & Portfolio
+- 📃 [Download My Resume](#) *((https://drive.google.com/file/d/15YW95WhRZTcIbWxruSwGhmqpR259EtOD/view?usp=drivesdk))*
+- 🌐 [Personal Portfolio Website](#) *(Working)*
+
+---
+
+### ✍️ Know More About Me
+- 💡 I enjoy working on scalable web applications and problem-solving.
+- 💬 Ask me about anything Java, Spring Boot, Angular, or Web Tech related!
+- ⚡ Fun fact: I like to automate daily tasks and optimize systems I work on.
+
+---
+
