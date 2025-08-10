@@ -61,7 +61,7 @@
 ---
 
 ### 📄 Resume & Portfolio
-- 📃 [Download My Resume]([https://drive.google.com/file/d/14CZJv2ski8EHS6iXhyvCPJyQOFp_0N7j/view?usp=drive_link](https://drive.google.com/file/d/1lP8hqe3vWolNwAa5_-4EgDw2ETCoUFYs/view?usp=drive_link))
+- 📃 [Download My Resume](https://drive.google.com/file/d/1lP8hqe3vWolNwAa5_-4EgDw2ETCoUFYs/view?usp=sharing)
 - 🌐 [Personal Portfolio Website](#) *(Working)*
 
 ---
